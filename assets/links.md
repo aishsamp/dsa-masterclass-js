@@ -11,3 +11,7 @@
 3. Problem Solving patterns
 
    https://cs.slides.com/colt_steele/problem-solving-patterns
+
+4. Recursion
+
+   https://cs.slides.com/colt_steele/searching-algorithms-22
