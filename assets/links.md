@@ -15,3 +15,7 @@
 4. Recursion
 
    https://cs.slides.com/colt_steele/searching-algorithms-22
+
+5. Searching Algorithms
+
+   https://cs.slides.com/colt_steele/tries-21
